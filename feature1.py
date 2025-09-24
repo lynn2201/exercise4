@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 print("MAIN version")
-=======
 print("feature branch code")
->>>>>>> ee9db65 (add feature1.py)
+print("update feature1")
+print("FEATURE version")
